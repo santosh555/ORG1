@@ -7,6 +7,10 @@
     </types>
     <types>
         <members>Account</members>
+        <members>AccountCleanInfo</members>
+        <members>AccountContactRole</members>
+        <members>Activity</members>
+        <members>User</members>
         <name>CustomObject</name>
     </types>
     <types>
