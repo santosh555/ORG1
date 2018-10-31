@@ -6,6 +6,11 @@
         <name>CustomApplication</name>
     </types>
     <types>
+        <members>Account.CustomerPriority__c</members>
+        <members>Account.NumberofLocations__c</members>
+        <name>CustomField</name>
+    </types>
+    <types>
         <members>Account</members>
         <members>AccountCleanInfo</members>
         <members>AccountContactRole</members>
